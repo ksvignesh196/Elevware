@@ -79,6 +79,31 @@ This project was created to study:
 
 ---
 
+## Important Notice
+
+⚠️ **Default Decryption Password:** `asdfasdf`
+
+⚠️ **Run Only in a Controlled Environment**
+
+This project is capable of encrypting files. Although it was developed for educational and research purposes, running it on a personal system may result in unintended file encryption or modification.
+
+It is strongly recommended to execute Elevware only inside a virtual machine, isolated laboratory environment, or other controlled testing setup.
+
+Before running the program, ensure that:
+
+* Important files are backed up.
+* The test environment is isolated from production systems.
+* You understand the encryption and decryption process.
+
+The default password required for decryption is:
+
+```text
+asdfasdf
+```
+
+Failure to use the correct password may prevent access to encrypted files until the proper decryption key is provided.
+
+
 ## Disclaimer
 
 ⚠️ This project was developed strictly for educational, research, and cybersecurity awareness purposes. It was created and tested only in controlled environments.
